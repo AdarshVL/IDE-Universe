@@ -1,6 +1,5 @@
 # 🌟 IDE-Universe — The Complete Developer Environment Guide
 
-[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Welcome to **Awesome IDEs**, a community-curated collection of the most powerful, efficient, and user-friendly Integrated Development Environments (IDEs) across all programming domains.
